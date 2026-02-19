@@ -115,4 +115,6 @@ That's it. That's Git (on GitHub) in 5 minutes.
 
 ---
 
-**Ready to contribute?** Head over to the [Contributing Guide](CONTRIBUTING.md) for step-by-step instructions.
+![xkcd: Git](images/xkcd-git.png)
+
+*[xkcd #1597](https://xkcd.com/1597/) — The good news is, using GitHub's web interface means you'll never have to memorize shell commands.*
