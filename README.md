@@ -1,7 +1,3 @@
-# A 5-Minute Intro to Git
-
-So someone told you to "make a pull request" and you're wondering what any of this means. Let's fix that.
-
 ## A Little History
 
 In 2005, Linus Torvalds — the same guy who created Linux — got fed up with the version control tools available at the time. So he did what any reasonable person would do: he built his own. In about **10 days**.
